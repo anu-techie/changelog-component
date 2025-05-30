@@ -24,7 +24,7 @@ The goal of this project is to help beginners understand and apply **CSS layout 
 ## 🔗 Additional Resources
 
 - 📄 **Project Page on Roadmap.sh:**  
-  [https://roadmap.sh/projects/portfolio-website](https://roadmap.sh/projects/portfolio-website)
+  [https://roadmap.sh/projects/changelog-component](https://roadmap.sh/projects/changelog-component)
 
 
 ## 🙌 Acknowledgments
