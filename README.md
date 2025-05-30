@@ -1,25 +1,32 @@
 
-Live Demo: 👉 [View the live project here](https://anu-techie.github.io/changelog-component/)
+**Live Demo:** 👉 [View the live project here](https://anu-techie.github.io/changelog-component/)
 
-# **Project:** changelog-component
-  simple component for a website that displays a changelog.
-
-## Features:
-
-  Designed for learning CSS positioning and layout basics.
-  
-## How to access code
-
- 1. **Clone the repository**
-   ```bash or command line
-
-   git clone https://github.com/yourusername/changelog-component.git
-   
- 2. Open the project in your computer
+# changelog-component
+A simple component for a website that displays a changelog.
 
 
-## Technologies Used
-  - HTML
-  - CSS
-    
-Project Page URL :https://roadmap.sh/projects/changelog-component
+## 🎯 Project Goal
+
+The goal of this project is to help beginners understand and apply **CSS layout techniques** including:
+
+- Margins and paddings
+- Typography and spacing
+- Flexbox for flexible layouts
+- Positioning, pseudo-elements, and CSS transforms
+
+
+## 💻 Technologies Used
+
+- **HTML5**
+- **CSS3**
+
+
+## 🔗 Additional Resources
+
+- 📄 **Project Page on Roadmap.sh:**  
+  [https://roadmap.sh/projects/portfolio-website](https://roadmap.sh/projects/portfolio-website)
+
+
+## 🙌 Acknowledgments
+
+- Built as part of the [roadmap.sh](https://roadmap.sh) learning projects.
